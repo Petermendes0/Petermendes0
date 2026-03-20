@@ -60,5 +60,5 @@ Build an international career in **Cybersecurity**, combining data analysis and 
 Open to remote opportunities and relocation to Europe  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petermendes0&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petermendes0&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petermendes0&layout=compact&theme=dark&count_private=true)
 ![Snake animation](https://github.com/Petermendes0/Petermendes0/blob/output/github-contribution-grid-snake.svg)
